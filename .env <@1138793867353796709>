@@ -1,4 +1,4 @@
-TOKEN=YAHAN_APNA_BOT_TOKEN_DAALO
+TOKEN=MTU2NDU4NzEyMjMwNjk4MTkxOA.GiI3Ok._RqH7poQav-f6F8CuYk45G0ywe6xibF34Ng46c
 PREFIX=!
 OWNER_IDS=["1138793867353796709"]
 NODES=[{"id":"Main","host":"my-lava-link-gtqm.onrender.com","port":443,"authorization":"youshallnotpass","secure":true}]
